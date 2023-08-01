@@ -69,9 +69,11 @@
             "id": "8aea7c1d3b69e91e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Notes/gaussian mixture definition.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -199,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,15 +215,16 @@
   },
   "active": "8aea7c1d3b69e91e",
   "lastOpenFiles": [
+    "theorem_3_multidimensional_case_proof_writeup-1.pdf",
+    "Plan.md",
+    "Images and pdfs/Pasted image 20230621100201.png",
     "Notes/multivariate theorem 3.md",
     "Notes/rough tkocz paper notes.md",
     "Notes/uniform integrability.md",
-    "Plan.md",
-    "Pasted image 20230621101350.png",
-    "Pasted image 20230621100432.png",
-    "Pasted image 20230621100425.png",
-    "Pasted image 20230621100401.png",
-    "Pasted image 20230621100201.png",
+    "Images and pdfs/Pasted image 20230621101350.png",
+    "Images and pdfs/Pasted image 20230621100432.png",
+    "Images and pdfs/Pasted image 20230621100425.png",
+    "Images and pdfs/Pasted image 20230621100401.png",
     "Notes/gaussian mixture definition.md",
     "Notes/Tkocz/Khinchine inequality.md",
     "Notes/Tkocz/proof of theorem 3.md",
