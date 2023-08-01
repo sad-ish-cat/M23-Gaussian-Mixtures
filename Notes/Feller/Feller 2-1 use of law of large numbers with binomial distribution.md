@@ -1,0 +1,4 @@
+ See [[Feller 2-1 -  law of large numbers stated in some funny way]]
+The important example for section 2 concerns the binomial distribution: If $F_{n, \theta}$ is a binomial distr. concentrated on $k/n$ (so not taking values 0 through $n$ but instead $0$ through $1$ with step size $1/n$) then we know that if the mean is $\theta = np/n = p$ then the variance $\sigma_{n}^2(\theta) = np(1 - p)/n^2 = \theta(1 - \theta)/n$ idk this is weird compared to how we normally do it but whatever it's just $\theta = p$ and the variance is normally $np(1 - p)$ (remember the argument via generating functions or whatever that was) so we pull out a factor of $n^2$ when norming by $n$ and so 
+$$\sum_{k = 0}^n u(kh) {n \choose k} \theta^k (1 - \theta)^{n - k} \to u(\theta)$$
+where as in the text we write $h$ for $1/n$. 

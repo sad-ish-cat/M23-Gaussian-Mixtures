@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "187ca4c4836462d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6430e44e0ac4a136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff09d662a2b0a5bd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Plan.md"
+              }
+            }
+          },
+          {
+            "id": "ac5a2daeb912b1c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tkocz/tkocz paper key concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6716040daa44c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/gaussian mixture definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21292b6e2d069b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tkocz/proof of theorem 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4dfe3dff40b519b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/gaussian mixture definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aea7c1d3b69e91e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd7a84c8e56208c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba69bb6ba3524215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dba56e2dca1f9ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "538a0559beef2502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e20b9eb75eadcc90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb5c8d2731d67cfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c43092dbbfd2d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c901e0baf698bd47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/gaussian mixture definition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bae514e6d431163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/gaussian mixture definition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4adae6ae8820207b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "485917a9be4e9211",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/gaussian mixture definition.md"
+              }
+            }
+          },
+          {
+            "id": "01139f16aba76ca7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8aea7c1d3b69e91e",
+  "lastOpenFiles": [
+    "Notes/multivariate theorem 3.md",
+    "Notes/rough tkocz paper notes.md",
+    "Notes/uniform integrability.md",
+    "Plan.md",
+    "Pasted image 20230621101350.png",
+    "Pasted image 20230621100432.png",
+    "Pasted image 20230621100425.png",
+    "Pasted image 20230621100401.png",
+    "Pasted image 20230621100201.png",
+    "Notes/gaussian mixture definition.md",
+    "Notes/Tkocz/Khinchine inequality.md",
+    "Notes/Tkocz/proof of theorem 3.md",
+    "Notes/Tkocz/corollary 25 following theorem 3.md",
+    "Notes/Tkocz/tkocz paper key concepts.md",
+    "Notes/Tkocz/theorem 2 in tkocz paper.md",
+    "Notes/Tkocz",
+    "Notes/Tkocz.md",
+    "Images and pdfs/Pasted image 20230611201951.png",
+    "Images and pdfs/Pasted image 20230613102556.png",
+    "Images and pdfs/Pasted image 20230612232243.png",
+    "Images and pdfs/Pasted image 20230612232236.png",
+    "Images and pdfs/Pasted image 20230612231250.png",
+    "classic result.md",
+    "Notes/Feller/Completely monotone functions and inversion formulas.md",
+    "Notes/Feller/Laplace transforms.md",
+    "Laplace transform.md",
+    "Notes/Feller/moment problems and completely monotone functions.md",
+    "Notes/Feller/Feller 2-2 - Bernstein polynomials.md",
+    "Notes/Bhatia/Schur majorization.md",
+    "Notes/Bhatia/(Graduate Texts in Mathematics 169) Rajendra Bhatia (auth.) - Matrix Analysis-Springer-Verlag New York (1997).pdf",
+    "Notes/Bhatia",
+    "Notes/Feller/William Feller - An Introduction to Probability Theory and Its Applications, Vol. 2-Wiley (1971).pdf",
+    "Notes/Feller/Feller 2-1 -  law of large numbers stated in some funny way.md",
+    "Notes/Feller/difference notation.md",
+    "Notes/Feller/defective probability distribution.md",
+    "Notes/Feller",
+    "Images and pdfs/prob-grad-notes.pdf",
+    "Notes/Feller/Feller 2-1 use of law of large numbers with binomial distribution.md",
+    "Images and pdfs",
+    "Research Plan.md",
+    "Notes"
+  ]
+}

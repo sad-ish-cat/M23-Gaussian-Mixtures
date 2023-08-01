@@ -1,0 +1,2 @@
+![[Pasted image 20230613102556.png]]
+The corollary is as above, and is the direct analog of the results from the second part of [[Khinchine inequality]] with the proof currently not but hopefully soon included - you are incurring such technical debt here it's no bueno man 
